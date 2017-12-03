@@ -20,7 +20,7 @@ class Footer extends React.Component {
                         <div className="xs-12">
                             <p>&copy; The Colorbook 2017</p>
                             <p>All information &amp; images are copyright of their respective owners.</p>
-                            <p className="muted">Colorbook has no affiliation with Dribbble.</p>
+                            <p className="muted">The Colorbook has no affiliation with Dribbble.</p>
                         </div>
                         <div className="xs-12">
                             <ul className="list horizontal">
